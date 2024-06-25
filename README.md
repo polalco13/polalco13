@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pol-alcoverro-sabaté-6519192a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pol-alcoverro-sabaté-6519192a1" height="30" width="40" /></a>
 <a href="https://instagram.com/pol.alco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pol.alco" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucl1erhlvi9-wcofkpulqd8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucl1erhlvi9-wcofkpulqd8w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@alco_dj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alco_dj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
