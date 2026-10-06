@@ -1,26 +1,67 @@
-<h1 align="center">Hi 👋, I'm Pol Alcoverro</h1>
-<h3 align="center">A passionate full stack developer from Barcelona</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polalco13&label=Profile%20views&color=0e75b6&style=flat" alt="polalco13" /> </p>
+<img src="assets/banner.svg" width="100%" alt="Pol Alcoverro — Full-stack engineer, Barcelona" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polalco13" alt="polalco13" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **private projects**
+![STATUS](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ff0033?style=for-the-badge&labelColor=000000)
+![THESIS](https://img.shields.io/badge/FIB--UPC%20THESIS-9.3%2F10-ffffff?style=for-the-badge&labelColor=000000)
+![REMOTE](https://img.shields.io/badge/REMOTE-READY-ff0033?style=for-the-badge&labelColor=000000)
 
-- 👨‍💻 All of my projects are available at [www.polalco.com](www.polalco.com)
+<br/><br/>
 
-- 📫 How to reach me **polalcoverros@gmail.com**
+<img src="assets/terminal.svg" width="92%" alt="Terminal: whoami, shipped projects, status open to work" />
 
-- ⚡ Fun fact **AI is my assistant**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pol.alco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pol.alco" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## ▌ SHIPPED. LIVE. USED.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polalco13&show_icons=true&locale=en&layout=compact" alt="polalco13" /></p>
+<table width="100%">
+  <tr>
+    <td width="50%"><a href="https://www.gradetracker.es/"><img src="assets/card-grade-tracker.svg" width="100%" alt="Grade Tracker" /></a></td>
+    <td width="50%"><a href="https://fib-hub.vercel.app/"><img src="assets/card-fib-hub.svg" width="100%" alt="FIB Hub" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://mondj-website.vercel.app/"><img src="assets/card-mon-dj.svg" width="100%" alt="Mon DJ" /></a></td>
+    <td width="50%"><a href="https://busos-alco.vercel.app/"><img src="assets/card-bus-schedule.svg" width="100%" alt="Bus Schedule" /></a></td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polalco13&show_icons=true&locale=en" alt="polalco13" /></p>
+<br/>
+
+## ▌ FIELD RECORD
+
+```
+2026 ▐█ MAFRICA ········· Software Engineer ····· internal business software
+2026 ▐█ OPSMONITOR ······ Frontend Developer ····· logistics web app · California · remote
+2025 ▐█ ESSI-UPC ········ Full-Stack Intern ······ Docker-based Taiga deployment
+2025 ▐█ GOOAPPS ········· Full-Stack Intern ······ React mobile apps + Angular CRM
+2021 ▐█ FIB-UPC ········· Software Engineering ··· thesis graded 9.3/10
+```
+
+<br/>
+
+## ▌ WEAPONS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,nodejs,postgres,docker,java,python,git&theme=dark&perline=12" alt="Tech stack" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="Let's build something dangerous. polalcoverros@gmail.com" />
+
+<br/>
+
+[![EMAIL](https://img.shields.io/badge/EMAIL-polalcoverros%40gmail.com-ff0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:polalcoverros@gmail.com)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-polalco.com-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://www.polalco.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-ff0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/pol-alcoverro-sabat%C3%A9-6519192a1/)
+[![CV](https://img.shields.io/badge/CV-DOWNLOAD-ffffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000)](https://www.polalco.com/Pol-Alcoverro-CV.pdf)
+
+</div>
